@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0ADAD2&height=200&section=header&text=Olá,%20Seja+Bem+Vindo(a)%20🎮&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0AF5D2&height=200&section=header&text=Olá,%20Seja+Bem+Vindo(a)%20🎮&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
 
 ---
 
@@ -27,4 +27,4 @@
 - 📧 Email: lucasmoreiranunes2017@gmail.com  
 
 ---
-![Footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=0ABED2&height=120&section=footer&text=✨+Cada+linha+de+código+é+XP+✨&fontSize=30)
+![Footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=0AF5D2&height=120&section=footer&text=✨+Cada+linha+de+código+é+XP+✨&fontSize=30)
