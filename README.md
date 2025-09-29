@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0A63D2&height=200&section=header&text=Olá,%20Seja+Bem+Vindo(a)%20🎮&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0ABED2&height=200&section=header&text=Olá,%20Seja+Bem+Vindo(a)%20🎮&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35)
 
 ---
 
