@@ -27,4 +27,4 @@
 - 📧 Email: lucasmoreiranunes2017@gmail.com  
 
 ---
-![Footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=0A8CD2&height=120&section=footer&text=✨+Cada+linha+de+código+é+XP+✨&fontSize=30)
+![Footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=0ABED2&height=120&section=footer&text=✨+Cada+linha+de+código+é+XP+✨&fontSize=30)
