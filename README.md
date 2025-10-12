@@ -1,6 +1,4 @@
-<p align="center"><a href="https://github.com/DevLucsMNS"><img width="80%" alt="Hello, I'm Lucas. Apaixonado por tecnologia!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+# Lucas Moreira
 
 ---
 
