@@ -7,20 +7,20 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
       <h3>🚀 Status da Missão</h3>
       <ul>
-        <li>🎓 <b>Estudante de ADS na Cruzeiro do Sul:</b> Focado no desenvolvimento de sistemas robustos e eficientes.</li>
-        <li>🌌 <b>Engenharia de Software:</b> Apaixonado por transformar linhas de código em novos mundos funcionais e escaláveis.</li>
-        <li>🔭 <b>Evolução Contínua:</b> Em busca constante de novas tecnologias e soluções inteligentes para desafios complexos.</li>
-        <li>⚙️ <b>Arquitetura de Dados:</b> Atualmente aprofundando conhecimentos em lógica de programação aplicada à Ciência de Dados.</li>
-        <li>🛠️ <b>Automação e Infraestrutura:</b> Interessado em otimizar processos de backend e gestão de infraestrutura Linux.</li>
+        <li>🎓 <b>Estudante de ADS na Cruzeiro do Sul:</b> Focado no desenvolvimento de sistemas robustos, escaláveis e eficientes.</li>
+        <li>🌌 <b>Engenharia de Software:</b> Apaixonado por transformar linhas de código em novos mundos funcionais através de lógica avançada.</li>
+        <li>🔭 <b>Evolução Contínua:</b> Em busca constante de novas tecnologias e soluções inteligentes para desafios complexos de backend.</li>
+        <li>⚙️ <b>Arquitetura de Dados:</b> Atualmente aprofundando conhecimentos em Python e SQL aplicados à Ciência de Dados.</li>
+        <li>🛠️ <b>Automação e Infraestrutura:</b> Interessado em otimizar processos de sistemas e gestão de infraestrutura Linux.</li>
+        <li>🖥️ <b>Fullstack Foundation:</b> Sólida base em tecnologias web como HTML5, CSS3 e JavaScript para interfaces dinâmicas.</li>
       </ul>
-      <p><i>Focado em converter dados brutos em insights estratégicos através de análise técnica e automação.</i></p>
     </td>
-    <td width="35%" align="center">
+    <td width="35%" align="center" valign="middle">
       <img src="https://user-images.githubusercontent.com/74038190/212241775-063f11f7-48cf-4514-8b8a-609b2e6124cb.gif" width="100%">
     </td>
   </tr>
@@ -47,7 +47,7 @@
 ### 📊 Radar da Estação (GitHub Stats)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
