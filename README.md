@@ -21,10 +21,7 @@
       <p align="left"><i>"A simplicidade é o último grau de sofisticação."</i></p>
     </td>
     <td width="45%" align="center" valign="middle">
-      
       <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
-      
-    </td>
   </tr>
 </table>
 
