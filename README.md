@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=vsningigds" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=Bem vindo ao meu perfil!" alt="Typing SVG">
   </a>
 </div>
 
@@ -17,28 +17,3 @@ Entre linhas de código e uma xícara de café, busco a simplicidade em sistemas
 Focado em **Backend**, **Ciência de Dados** e **Infraestrutura**.
 
 `Sendo 1% melhor todos os dias.`
-
-<br>
-
-### 🛠️ Core Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-924058f1-8ba4-4f05-8356-83f0ca564116.gif" width="100%">
-
-<br>
-
-### 📊 Dev Analytics
-
-<p align="center">
-  <img
