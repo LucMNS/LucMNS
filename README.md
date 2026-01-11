@@ -1,41 +1,58 @@
-# Lucas Moreira
+<div align="center">
+  
+# ✨ Explorador do Universo Digital: Lucas Moreira ✨
 
-🎯 Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
-🚀 Explorando **dados** e como eles podem gerar impacto real nas empresas.  
-💡 Sempre em busca de aprender coisas novas e criar soluções inteligentes.  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Python, SQL, JavaScript  
-- **Ferramentas:** Git, GitHub, Power BI, Excel Avançado  
-- **Interesses:** Ciência de Dados, Análise, Backend e Automação  
+*"Sendo 1% melhor todos os dias, em cada órbita ao redor do conhecimento."*
 
 ---
 
-## 📈 GitHub Stats
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Onde me encontrar
-- 💼 LinkedIn: https://www.linkedin.com/in/lucasmns7/
-- 📧 Email: lucasmoreiranunes2017@gmail.com
+### 🛰️ Status da Missão
+🎓 **Estudante de ADS** na Cruzeiro do Sul.  
+🌌 Apaixonado por transformar linhas de código em novos mundos funcionais.  
+🔭 Em busca constante de novas tecnologias e soluções inteligentes.
 
 ---
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg"><img 
-     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=428&lines=%22O+mundo+%C3%A9+o+reflexo+da+nossa+mente%22.;%22Sendo+1%25+melhor+todos+os+dias%22" 
-     alt="Typing SVG" /></a>
+### 🌌 Constelação de Tecnologias (Tech Stack)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### ☄️ Sistemas em Órbita (Interesses)
+🎮 **RimWorld Explorer:** Estratégia e sobrevivência em colônias distantes.  
+🎲 **Game Master:** Mestre de RPG no sistema Ordem Paranormal.  
+📊 **Data Voyager:** Interessado em Ciência de Dados e Automação.
+
+---
+
+### 📊 Radar da Estação (GitHub Stats)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucsMNS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucsMNS&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📡 Comunicação Intergaláctica
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucasmns7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lucasmoreiranunes2017@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e4f125c0-4315-46f9-8d1a-47d0689b71f9.gif" width="100%">
