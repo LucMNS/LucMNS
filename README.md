@@ -1,5 +1,3 @@
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
 <div align="center">
 
 # 🛰️ Estação de Operações: Lucas Moreira
@@ -67,3 +65,4 @@
   </a>
 </p>
 
+<img align="center" alt="" height="190px" src="./src/study.gif">
