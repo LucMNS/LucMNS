@@ -12,11 +12,13 @@
     <td width="70%" align="left" valign="middle">
       <h3>🚀 Status da Missão</h3>
       <ul>
-        <li>🎓 <b>Estudante de ADS na Cruzeiro do Sul</b></li>
-        <li>🌌 <b>Apaixonado por transformar linhas de código em novos mundos funcionais.</b></li>
-        <li>🔭 <b>Em busca constante de novas tecnologias e soluções inteligentes.</b></li>
+        <li>🎓 <b>Estudante de ADS na Cruzeiro do Sul:</b> Focado no desenvolvimento de sistemas robustos e eficientes.</li>
+        <li>🌌 <b>Engenharia de Software:</b> Apaixonado por transformar linhas de código em novos mundos funcionais e escaláveis.</li>
+        <li>🔭 <b>Evolução Contínua:</b> Em busca constante de novas tecnologias e soluções inteligentes para desafios complexos.</li>
+        <li>⚙️ <b>Arquitetura de Dados:</b> Atualmente aprofundando conhecimentos em lógica de programação aplicada à Ciência de Dados.</li>
+        <li>🛠️ <b>Automação e Infraestrutura:</b> Interessado em otimizar processos de backend e gestão de infraestrutura Linux.</li>
       </ul>
-      <p>Focado em <b>Ciência de Dados</b>, <b>Análise</b>, <b>Backend</b> e <b>Automação</b>.</p>
+      <p><i>Focado em converter dados brutos em insights estratégicos através de análise técnica e automação.</i></p>
     </td>
     <td width="30%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="max-width: 250px;">
