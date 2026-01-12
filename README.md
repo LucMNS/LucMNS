@@ -1,23 +1,21 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Coffee Skeleton" width="100%" />
-</p>
+<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
-<h1 align="center">Olá, bem-vindo(a) ao meu perfil! 👋</h1>
+<h2 align="center"><b>Software Developer | Data Science & Infrastructure Enthusiast</b></h2>
 
 <p align="center">
-  <i>"Transformando café e lógica em soluções inteligentes."</i>
+  <i>"Transformando café e lógica em soluções inteligentes e insights estratégicos."</i>
 </p>
 
 <hr/>
 
 ### 🚀 Sobre Mim
 
-Sou um entusiasta da tecnologia, sempre buscando entender como as coisas funcionam por trás dos panos e como criar soluções melhores.
+Desenvolvedor em constante evolução, com foco principal em **Análise e Ciência de Dados**. Minha base em Sistemas permite que eu transite com facilidade entre o desenvolvimento de interfaces (Frontend), a lógica de servidores (Backend) e a gestão de ambientes (Infraestrutura/Cloud).
 
-* 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul: Focado no desenvolvimento de sistemas robustos e eficientes.
-* 🌌 **Engenharia de Software:** Apaixonado por transformar linhas de código em novos mundos funcionais.
-* 🔭 **Evolução Contínua:** Em busca constante de novas tecnologias e soluções inteligentes para desafios complexos.
-* ⚙️ **Arquitetura de Dados:** Atualmente aprofundando conhecimentos em lógica de programação aplicada à Ciência de Dados.
+* 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas pela **Cruzeiro do Sul**.
+* 📊 **Data Science:** Focado em transformar grandes volumes de dados em decisões inteligentes e visualizações de alto impacto.
+* 🌌 **Engenharia de Software:** Experiência em arquitetar sistemas funcionais, priorizando código limpo e escalabilidade.
+* ⚙️ **Infraestrutura e Cloud:** Conhecimentos em ambientes Linux e provedores Cloud para suporte a pipelines de dados.
 
 ---
 
@@ -43,14 +41,17 @@ Sou um entusiasta da tecnologia, sempre buscando entender como as coisas funcion
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Comunicação
+### 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasmns7/">
