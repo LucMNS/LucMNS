@@ -3,17 +3,17 @@
 <h2 align="center"><b>Software Developer | Data Science & Infrastructure Enthusiast</b></h2>
 
 <p align="center">
-  <i>"Transformando café e lógica em soluções inteligentes e insights estratégicos."</i>
+  <i>"Transformando café e lógica em soluções inteligentes."</i>
 </p>
 
 <hr/>
 
-### 🚀 Sobre Mim
+### ☕ Sobre Mim
 
 Desenvolvedor em constante evolução, com foco principal em **Análise e Ciência de Dados**. Minha base em Sistemas permite que eu transite com facilidade entre o desenvolvimento de interfaces (Frontend), a lógica de servidores (Backend) e a gestão de ambientes (Infraestrutura/Cloud).
 
 * 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas pela **Cruzeiro do Sul**.
-* 📊 **Data Science:** Focado em transformar grandes volumes de dados em decisões inteligentes e visualizações de alto impacto.
+* 📊 **Data Science:** Focado em extrair **insights estratégicos** de grandes volumes de dados para apoiar tomadas de decisão.
 * 🌌 **Engenharia de Software:** Experiência em arquitetar sistemas funcionais, priorizando código limpo e escalabilidade.
 * ⚙️ **Infraestrutura e Cloud:** Conhecimentos em ambientes Linux e provedores Cloud para suporte a pipelines de dados.
 
@@ -44,6 +44,7 @@ Desenvolvedor em constante evolução, com foco principal em **Análise e Ciênc
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
