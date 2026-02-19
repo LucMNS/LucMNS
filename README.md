@@ -63,7 +63,9 @@ Desenvolvedor em constante evolução, com foco principal em **Análise e Ciênc
   </a>
 </p>
 
-## 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucMNS&theme=gotham" width="33%" />
