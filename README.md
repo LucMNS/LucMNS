@@ -10,12 +10,13 @@
 
 ### ☕ Sobre Mim
 
-Desenvolvedor em constante evolução, com foco principal em **Análise e Ciência de Dados**. Minha base em Sistemas permite que eu transite com facilidade entre o desenvolvimento de interfaces (Frontend), a lógica de servidores (Backend) e a gestão de ambientes (Infraestrutura/Cloud).
+Profissional de tecnologia com interesse em atuar nas áreas de Engenharia de Dados, Infraestrutura ou Suporte de TI. Com minha formação em Análise e Desenvolvimento de Sistemas, possuo um perfil versátil, unindo a capacidade de estruturar fluxos de dados com uma forte visão de resolução de problemas e atendimento aos usuários.
 
-* 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas pela **Cruzeiro do Sul**.
-* 📊 **Data Science:** Focado em extrair **insights estratégicos** de grandes volumes de dados para apoiar tomadas de decisão.
-* 🌌 **Engenharia de Software:** Experiência em arquitetar sistemas funcionais, priorizando código limpo e escalabilidade.
-* ⚙️ **Infraestrutura e Cloud:** Conhecimentos em ambientes Linux e provedores Cloud para suporte a pipelines de dados.
+* 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (ADS) pela Cruzeiro do Sul.
+* 🗄️ **Dados (Engenharia e Análise):** Em aprofundamento prático com modelagem de bancos de dados (SQL) e nos processos de extração e tratamento de informações para apoio à decisão.
+* ☁️ **Infraestrutura e Cloud:** Foco no estudo e na compreensão de provedores Cloud, buscando entender como gerir ambientes escaláveis e disponíveis para aplicações.
+* 🤝 **Suporte Técnico:** Vivência profissional com atendimento ao público em cenários de alta demanda, garantindo comunicação clara, empatia com o usuário e resolução ágil de problemas.
+* 💻 **Desenvolvimento:** Experiência prática no ciclo completo de aplicações web (como o deploy de plataformas SaaS com JavaScript) e desenvolvendo novas habilidades em Python com foco em dados.
 
 ---
 
