@@ -48,6 +48,7 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
@@ -69,7 +70,7 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucMNS&theme=gotham" width="33%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucMNS&theme=gotham" width="33%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucMNS&theme=gotham" width="33%" />
