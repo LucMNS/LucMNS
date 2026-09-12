@@ -49,6 +49,7 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Scrum e Kanban](https://img.shields.io/badge/Scrum_%26_Kanban-2E5D43?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
