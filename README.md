@@ -1,3 +1,4 @@
+
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 <h2 align="center"><b>Data Engineering & Analytics | Cloud Infrastructure & Tech Support</b></h2>
@@ -71,10 +72,11 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucMNS&theme=gotham" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucMNS&theme=gotham" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucMNS&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucMNS&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucMNS&theme=gotham" width="33%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucMNS&theme=gotham&animation=load&name=LucMNS" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucMNS&theme=gotham" width="100%" />
 </p>
