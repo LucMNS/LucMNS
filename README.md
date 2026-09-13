@@ -36,7 +36,6 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 ![Excel Intermediário](https://img.shields.io/badge/Excel_Intermediário-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
 ### **☁️ Infraestrutura e Cloud**<br>
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
@@ -46,9 +45,7 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Scrum e Kanban](https://img.shields.io/badge/Scrum_%26_Kanban-2E5D43?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
