@@ -1,4 +1,6 @@
 
+<img src="assets/buraco-negro.svg" width="100%" alt="Buraco negro animado" />
+
 <h2 align="center"><b>Data Engineering & Analytics | Cloud Infrastructure & Tech Support</b></h2>
 
 <p align="center">
@@ -65,7 +67,8 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats <div align="right">![Visitas](https://komarev.com/ghpvc/?username=LucMNS&label=Visitas&color=0e75b6&style=flat) </div>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucMNS&theme=gotham" width="33%" />
