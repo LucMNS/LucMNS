@@ -67,7 +67,7 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 
 ---
 
-### 📊 GitHub Stats <div align="right">![Visitas](https://komarev.com/ghpvc/?username=LucMNS&label=Visitas&color=0e75b6&style=flat) </div>
+### 📊 GitHub Stats
 
 
 <p align="center">
