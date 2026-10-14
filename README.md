@@ -71,9 +71,9 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucMNS&theme=gotham" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucMNS&theme=gotham" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucMNS&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucMNS&theme=gotham&animation=fade" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucMNS&theme=gotham&animation=fade" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucMNS&theme=gotham&animation=fade&utcOffset=-3" width="33%" />
 </p>
 
 <p align="center">
