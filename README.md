@@ -34,6 +34,7 @@ Como estudante, estas são as tecnologias com as quais tenho contato e estou apr
 ### **🗄️ Bancos de Dados e Análise**<br>
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel Intermediário](https://img.shields.io/badge/Excel_Intermediário-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
